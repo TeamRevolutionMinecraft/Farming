@@ -1,0 +1,28 @@
+OreHeight:
+  # Spawn heights of the ores
+  diamond_min: -80
+  diamond_max: -40
+  gold_min: -45
+  gold_max: 5
+  iron_min: -10
+  iron_max: 40
+  coal_min: 10
+  coal_max: 60
+
+NameOfFarm:
+  type_of_farm:
+    ore
+  world_name:
+    world
+  center_x:
+    1234
+  center_y:
+    1234
+  radius:
+    15
+  materials:
+    COAL_ORE
+    IRON_ORE
+    GOLD_ORE
+    DIAMOND_ORE
+

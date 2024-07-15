@@ -1,0 +1,8 @@
+name: Farming
+version: '${project.version}'
+main: teamrevolution.farming.Farming
+api-version: 1.19
+authors: [ BuildersInc ]
+depend: [
+  WorldGuard
+]
